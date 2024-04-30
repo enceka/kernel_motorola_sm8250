@@ -1,1 +1,1 @@
-patch -b fs/path_umount.patch namespace.c
+patch -b fs/namespace.c path_umount.patch
