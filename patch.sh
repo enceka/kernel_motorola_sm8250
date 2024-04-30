@@ -1,0 +1,1 @@
+patch -b fs/path_umount.patch namespace.c
